@@ -1,5 +1,5 @@
 ## smallish
-[![Build Status](https://travis-ci.org/uwescience/smallish.svg?branch=master)](https://travis-ci.org/uwescience/smallish)
+[![Build Status](https://travis-ci.org/jasonfeiwang/smallish.svg?branch=master)](https://travis-ci.org/jasonfeiwang/smallish)
 
 Smallish is a template project for small scientific python projects. The
 recommendations we make here follow the standards and conventions of much of
